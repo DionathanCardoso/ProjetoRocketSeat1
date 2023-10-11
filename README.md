@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O meu primeiro projeto feitona Rocketseat.
+O meu primeiro projeto feito completo na Rocketseat.
 
 ## 🔖 Layout
 
